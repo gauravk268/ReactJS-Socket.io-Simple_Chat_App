@@ -35,7 +35,7 @@ function TextContainer({ users }) {
               {users.map(({ name }) => (
                 <div key={name} className="activeItem">
                   {name}
-                  <img src={onlineIcon} alt="Online" />{" "}
+                  <img src={onlineIcon} alt="Online" />
                 </div>
               ))}
             </h2>

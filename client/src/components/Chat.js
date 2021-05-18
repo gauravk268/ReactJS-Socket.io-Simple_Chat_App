@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import queryString from "query-string";
 import io from "socket.io-client";
-import "./Chat.css";
 import InfoBar from "./InfoBar";
 import Input from "./Input";
 import Messages from "./Messages";
 import TextContainer from "./TextContainer";
+import "./Chat.css";
 
 let socket;
 
@@ -66,7 +66,6 @@ function Chat({ location }) {
           setMessage={setMessage}
           sendMessage={sendMessage}
         />
-        {/* <TextContainer users={users} /> */}
         {/* <input
           value={message}
           onChange={(e) => {
@@ -77,6 +76,7 @@ function Chat({ location }) {
           }}
         /> */}
       </div>
+      <TextContainer users={users} />
     </div>
   );
 }

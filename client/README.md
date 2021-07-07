@@ -1,4 +1,4 @@
-# ReactJS-Socket.io-Simple_Chat_App Client
+# ReactJS-Socket.io-Simple_Chat_App (Client)
 
 #### Link to the live app: http://gauravk268-simple-chat-app.netlify.app
 

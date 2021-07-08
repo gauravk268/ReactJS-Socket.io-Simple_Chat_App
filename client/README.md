@@ -1,6 +1,6 @@
 # ReactJS-Socket.io-Simple_Chat_App (Client)
 
-#### Link to the live app: http://gauravk268-simple-chat-app.netlify.app
+#### Link to the live app: [simple-chat-app.gauravk.co/](https://simple-chat-app.gauravk.co/) / [alternate address](http://gauravk268-simple-chat-app.netlify.app)
 
 ## Look how easy it is to use:
 ------------------------------
